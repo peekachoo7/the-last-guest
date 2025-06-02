@@ -1,0 +1,33 @@
+{
+    "name": "The Last Guest",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "sprite-scaling": "*",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "animation": "*",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "main.py",
+        "httpsmakecode.comPLoR7Kfi8hoK.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.56",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
